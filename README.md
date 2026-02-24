@@ -27,7 +27,7 @@
 
 ## English language
 
-Use English language when naming your variables and functions.
+3Use English language when naming your variables and functions.
 
 ```js
 /* Bad */
